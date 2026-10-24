@@ -1,0 +1,29 @@
+.font{
+    font-family: initial;
+    color: brown;
+    font-size: 45px;
+
+}
+.para{
+    font-size: medium;
+}
+.navbar {
+    background-color: #000000;
+    padding: 20px;
+    
+}
+nav a {
+    color: aliceblue;
+}
+.button{
+    background: #000000;
+    color: antiquewhite;
+    padding: 10px 20px;
+    font-size: large;
+}
+.form{
+    background-color: hsl(0, 0%, 0%);
+    padding: 10px;
+    color: antiquewhite;
+    font-size: large;
+}
